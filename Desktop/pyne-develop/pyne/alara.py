@@ -523,7 +523,7 @@ def irradiation_blocks(material_lib, element_lib, data_library, cooling,
 """
 
 def _build_matrix(N):
-    """ Given an array of nuclides, N (in any naming format), builds burnup matrix, A. Decay only.
+    """ This function  builds burnup matrix, A. Decay only.
     """
     
     A = np.zeros((len(N), len(N)))
