@@ -12,7 +12,7 @@ image:
 
 My research interests include numerical partial differential equations, high performance computing, open source scientific computing, and neutral particle transport. 
 
-## [Curriculum Vitae](mzweig.github.io/images/MRZ_CV.pdf)
+## [Curriculum Vitae](MRZ_CV.pdf)
 
 ## Papers:
 
