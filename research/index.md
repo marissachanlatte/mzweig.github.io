@@ -16,5 +16,4 @@ My research interests include numerical partial differential equations, high per
 
 ## Papers:
 
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+McNair Research Symposium 2015, unpublished: [Shock Capturing by the Line-Based Discontinuous Galerkin Method](Marissa_LDG.pdf)
