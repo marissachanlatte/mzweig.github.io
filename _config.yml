@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Marissa Ramirez Zweiger
 locale:           en_US
 url:              https://mzweig.github.io
 
@@ -27,8 +27,8 @@ kramdown:
 # Site owner
 owner:
   name: Marissa Ramirez Zweiger
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  avatar: profile-pic.jpg
+  bio: 
   email: mzweig@berkeley.edu
   disqus-shortname:
   twitter: #username
