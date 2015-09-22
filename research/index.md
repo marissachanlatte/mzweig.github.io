@@ -21,6 +21,7 @@ McNair Research Symposium 2015, unpublished: [Shock Capturing by the Line-Based 
 
 ## Software
 
-I contribute to the open source software PyNE: Python for Nuclear Engineers.
+I contribute to the open source software [PyNE: The Nuclear Engineering
+Toolkit](http://pyne.io).
 You can view my pull requests via my [GitHub](https://github.com/mzweig)
 account. 
