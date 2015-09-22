@@ -18,3 +18,9 @@ My research interests include numerical partial differential equations, high per
 ## Papers:
 
 McNair Research Symposium 2015, unpublished: [Shock Capturing by the Line-Based Discontinuous Galerkin Method](Marissa_LDG.pdf)
+
+## Software
+
+I contribute to the open source software PyNE: Python for Nuclear Engineers.
+You can view my pull requests via my [GitHub](https://github.com/mzweig)
+account. 
