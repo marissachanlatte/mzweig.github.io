@@ -10,7 +10,7 @@ image:
   creditlink: 
 ---
 
-My research interests include numerical partial differential equations, high performance computing, open source scientific computing, and neutral particle transport. 
+My research interests include numerical partial differential equations, high performance computing, open source scientific computing, and radiation transport. 
 
 ## Curriculum Vitae: 
 [pdf](MRZ_CV.pdf)
