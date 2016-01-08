@@ -19,6 +19,8 @@ My research interests include numerical partial differential equations, high per
 
 McNair Research Symposium 2015, unpublished: [Shock Capturing by the Line-Based Discontinuous Galerkin Method](Marissa_LDG.pdf)
 
+M. Ramirez Zweiger, R. N. Slaybaugh. The Implementation of the Chebyshev Rational Approxima- tion Method for Burnup Calculations Into PyNE. The UC Berkeley McNair Scholars Journal, (2016). [Preprint] (McNair.pdf)
+
 ## Software
 
 I contribute to the open source software [PyNE: The Nuclear Engineering
