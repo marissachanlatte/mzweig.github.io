@@ -17,10 +17,10 @@ My research interests include numerical partial differential equations, high per
 
 ## Papers:
 
-McNair Research Symposium 2015, unpublished: [Shock Capturing by the Line-Based Discontinuous Galerkin Method](Marissa_LDG.pdf)
+M. Ramirez Zweiger.[Shock Capturing by the Line-Based Discontinuous Galerkin Method](Marissa_LDG.pdf). McNair Scholars Symposium, Berkeley, CA 2015.
 
 
-M. Ramirez Zweiger, R. N. Slaybaugh. The Implementation of the Chebyshev Rational Approximation Method for Burnup Calculations Into PyNE. The UC Berkeley McNair Scholars Journal, (2016). [Preprint](McNair.pdf)
+M. Ramirez Zweiger, R. N. Slaybaugh. [The Implementation of the Chebyshev Rational Approximation Method for Burnup Calculations Into PyNE](McNair.pdf). The UC Berkeley McNair Scholars Journal, (2016). 
 
 ## Software
 
