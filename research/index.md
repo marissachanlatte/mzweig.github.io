@@ -5,15 +5,14 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: granada.png
+  feature: cover.png
   credit: 
   creditlink: 
 ---
 
 My research interests include numerical partial differential equations, high performance computing, open source scientific computing, and radiation transport. 
 
-## Curriculum Vitae: 
-[pdf](MRZ_CV.pdf)
+## [Curriculum Vitae](MRZ_CV.pdf)
 
 ## Papers:
 
