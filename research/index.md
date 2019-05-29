@@ -18,12 +18,13 @@ high performance computing, computational fluid dynamics, and radiation transpor
 ## [Curriculum Vitae](MRZ_CV.pdf)
 
 ## Papers:
-R. N. Slaybaugh, M. Ramirez-Zweiger, Tara Pandya, Steven Hamilton & TM Evans [Eigenvalue Solvers for Modeling Nuclear Reactors on Leadership Class Machines](https://www.tandfonline.com/doi/full/10.1080/00295639.2017.1413875). Nuclear Science and Engineering, 190:1, 31-44, (2018).
-
-M. Ramirez Zweiger. [Shock Capturing by the Line-Based Discontinuous Galerkin Method](Marissa_LDG.pdf). McNair Scholars Symposium, Berkeley, CA 2015.
+1. R. N. Slaybaugh, M. Ramirez-Zweiger, Tara Pandya, Steven Hamilton & TM Evans [Eigenvalue Solvers for Modeling Nuclear Reactors on Leadership Class Machines](https://www.tandfonline.com/doi/full/10.1080/00295639.2017.1413875). Nuclear Science and Engineering, 190:1, 31-44, (2018).
 
 
-M. Ramirez Zweiger, R. N. Slaybaugh. [The Implementation of the Chebyshev Rational Approximation Method for Burnup Calculations Into PyNE](McNair.pdf). The UC Berkeley McNair Scholars Journal, (2016).
+2. M. Ramirez Zweiger. [Shock Capturing by the Line-Based Discontinuous Galerkin Method](Marissa_LDG.pdf). McNair Scholars Symposium, Berkeley, CA 2015.
+
+
+3. M. Ramirez Zweiger, R. N. Slaybaugh. [The Implementation of the Chebyshev Rational Approximation Method for Burnup Calculations Into PyNE](McNair.pdf). The UC Berkeley McNair Scholars Journal, (2016).
 
 ## Software
 
