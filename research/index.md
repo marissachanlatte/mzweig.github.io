@@ -26,9 +26,6 @@ high performance computing, computational fluid dynamics, and radiation transpor
 
 3. M. Ramirez Zweiger, R. N. Slaybaugh. [The Implementation of the Chebyshev Rational Approximation Method for Burnup Calculations Into PyNE](McNair.pdf). The UC Berkeley McNair Scholars Journal, (2016).
 
-## Software
+## Software Projects
 
-I contribute to the open source software [PyNE: The Nuclear Engineering
-Toolkit](http://pyne.io).
-You can view my pull requests via my [GitHub](https://github.com/mzweig)
-account.
+1. [Gallo: A 2D FEM Radiation Transport Code](https://github.com/mzweig/gallo)
