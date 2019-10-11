@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Marissa Ramirez Zweiger
+title:            Marissa Ramirez de Chanlatte
 locale:           en_US
 url:              https://mzweig.github.io
 
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Marissa Ramirez Zweiger
   avatar: profile-pic.jpg
-  bio: 
+  bio:
   email: mzweig@berkeley.edu
   disqus-shortname:
   twitter: #username
